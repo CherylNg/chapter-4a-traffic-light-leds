@@ -1,5 +1,6 @@
 {
     "name": "Chapter 4a Traffic Light LEDs",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
